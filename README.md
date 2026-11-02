@@ -286,15 +286,4 @@ Based on the dashboard's displayed results:
 
 ---
 
-## 👤 Author
-
-**Hrithik Sangle**
-
-Interested in Data Analytics, Business Intelligence, and Data Engineering.
-
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- **GitHub:** [Add your GitHub profile URL](https://github.com/)
-
----
-
 ⭐ If you find this project useful, feel free to star the repository!
